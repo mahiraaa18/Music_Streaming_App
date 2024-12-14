@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678016403411",
+    "project_id": "music-stream-project-6f2e9",
+    "storage_bucket": "music-stream-project-6f2e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678016403411:android:5d6b1646a02376fbd89126",
+        "android_client_info": {
+          "package_name": "com.example.musicstremv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZKUuhTbjX7vwiJ1xkN8hUcbecqbJfsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678016403411:android:ab0a923b482560d2d89126",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.musicstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZKUuhTbjX7vwiJ1xkN8hUcbecqbJfsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
